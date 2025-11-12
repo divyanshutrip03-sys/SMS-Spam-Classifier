@@ -1,8 +1,5 @@
-Here’s a clean, professional, and human-readable **README** for your project:
 
----
-
-# 📧 Email Spam Classifier
+# 📧 SMS Spam Classifier
 
 An **end-to-end machine learning project** that classifies emails as **Spam** or **Not Spam** using natural language processing (NLP) and machine learning techniques.
 
@@ -12,7 +9,7 @@ This project demonstrates the complete workflow — from **data preprocessing** 
 
 ## 🚀 Overview
 
-Email spam is one of the most common problems in digital communication. This project aims to automatically detect and filter out spam messages using a trained machine learning model.
+SMS spam is one of the most common problems in digital communication. This project aims to automatically detect and filter out spam messages using a trained machine learning model.
 
 The pipeline includes:
 
@@ -26,11 +23,11 @@ The pipeline includes:
 
 ## 🧠 Tech Stack
 
-* **Python 3.x**
+* **Python 3.12**
 * **scikit-learn** – Machine learning algorithms and metrics
 * **pandas**, **numpy** – Data handling and analysis
 * **NLTK** – Text preprocessing (tokenization, stopwords, stemming)
-* **Flask / Streamlit (optional)** – For model deployment
+* **Streamlit** – For model deployment
 
 ---
 
